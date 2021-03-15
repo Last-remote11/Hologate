@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Card component 1`] = `
+<div
+  className="tc bg-light-blue dib br3 pd3 ma2 grow bw2 shadow-5"
+>
+  <img
+    alt="vtuber"
+    className="br3"
+    height="200px"
+    width="200px"
+  />
+  <div>
+    <h2 />
+    <h3 />
+    <a
+      rel="noreferrer"
+      target="_blank"
+    >
+      <img
+        alt="youtube"
+        className="pd3 shadow-5 dib br3"
+        height="40px"
+        src="https://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_400x400.jpg"
+        width="40px"
+      />
+    </a>
+    <a
+      rel="noreferrer"
+      target="_blank"
+    >
+      <img
+        alt="twitter"
+        className="pd3 shadow-5 dib br3"
+        height="40px"
+        src="https://pbs.twimg.com/profile_images/1308010958862905345/-SGZioPb_400x400.jpg"
+        width="40px"
+      />
+    </a>
+  </div>
+</div>
+`;
